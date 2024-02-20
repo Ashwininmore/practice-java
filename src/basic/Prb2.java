@@ -18,6 +18,7 @@ public class Prb2 {
 				fact=fact*num;
 				num--;
 			}
+			
 			System.out.println("Factorial:"+fact);
 		}
 
