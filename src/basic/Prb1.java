@@ -14,7 +14,7 @@ public class Prb1 {
 			sum=sum+i;
 			i++;
 		}
-		System.out.println("Addition of "+n+" numbers :"+sum);
+		System.out.println("Addition of 6"+n+" numbers :"+sum);
 	}
 
 }
